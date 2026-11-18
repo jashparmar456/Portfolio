@@ -1,0 +1,6 @@
+Open Sans Condensed Bold
+Font family: Open Sans
+Designer: Steve Matteson
+Copyright 2010-2011 Google Corporation.
+Distributed under the Apache License, Version 2.0.
+https://www.apache.org/licenses/LICENSE-2.0
